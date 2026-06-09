@@ -1,0 +1,39 @@
+{
+  "stories": [
+    {
+      "id": "1",
+      "title": "The Silent Patient1",
+      "author": "Alex Michaelides",
+      "coverUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/NovelReader-Data/main/covers/silent-patient.jpg",
+      "description": "Alicia Berenson refuses to speak after shooting her husband. Theo Faber becomes obsessed with uncovering her motive."
+    },
+    {
+      "id": "2",
+      "title": "Dune1",
+      "author": "Frank Herbert",
+      "coverUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/NovelReader-Data/main/covers/dune.jpg",
+      "description": "Paul Atreides and his family are drawn into a deadly political struggle on the desert planet Arrakis."
+    },
+    {
+      "id": "3",
+      "title": "Project Hail Mary1",
+      "author": "Andy Weir",
+      "coverUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/NovelReader-Data/main/covers/project-hail-mary.jpg",
+      "description": "Ryland Grace is the sole survivor on a desperate mission to save Earth from catastrophe."
+    },
+    {
+      "id": "4",
+      "title": "The Midnight Library1",
+      "author": "Matt Haig",
+      "coverUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/NovelReader-Data/main/covers/midnight-library.jpg",
+      "description": "Between life and death there is a library, and within that library, the shelves go on forever."
+    },
+    {
+      "id": "5",
+      "title": "Atomic Habits1",
+      "author": "James Clear",
+      "coverUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/NovelReader-Data/main/covers/atomic-habits.jpg",
+      "description": "An easy & proven way to build good habits & break bad ones."
+    }
+  ]
+}
